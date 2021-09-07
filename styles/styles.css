@@ -1,0 +1,9 @@
+body {
+  display: grid;
+  place-items: center;
+  min-height: 100vh;
+}
+
+.height {
+  min-height: 80vh;
+}
